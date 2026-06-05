@@ -1,0 +1,9 @@
+pdfplumber
+pytesseract
+Pillow
+opencv-python
+numpy
+pandas
+langchain
+faiss-cpu
+sentence-transformers
